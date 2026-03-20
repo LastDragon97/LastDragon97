@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Mauricio
 - 👀 I’m interested in Develop and create vdeogames content
-- 🌱 I’m currently learning full stack develop
-- 💞️ I’m looking to collaborate on Square Enix
-- 📫 How to reach me... only send me a email on maumesmerin@gmail.com
+- 🌱 I’m currently learning full stack develod
 
 <!---
 LastDragon97/LastDragon97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
